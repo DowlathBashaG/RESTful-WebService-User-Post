@@ -1,17 +1,14 @@
-package com.dowlath.rang.restful.restfulwebservice.controller;
+package io.dowlath.rest.controller;
 
 import java.util.Locale;
 
+import io.dowlath.rest.controller.helloworldbean.HelloWorldBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestHeader;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
-
-import com.dowlath.rang.restful.restfulwebservice.controller.helloworldbean.HelloWorldBean;
 
 @RestController
 public class HelloworldController {

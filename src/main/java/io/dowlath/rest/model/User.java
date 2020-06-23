@@ -1,4 +1,4 @@
-package com.dowlath.rang.restful.restfulwebservice.model;
+package io.dowlath.rest.model;
 
 import java.util.Date;
 import java.util.List;

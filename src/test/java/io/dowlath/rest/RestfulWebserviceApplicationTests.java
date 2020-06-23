@@ -1,4 +1,4 @@
-package com.dowlath.rang.restful.restfulwebservice;
+package io.dowlath.rest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

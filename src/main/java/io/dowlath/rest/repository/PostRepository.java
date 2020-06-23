@@ -1,10 +1,9 @@
-package com.dowlath.rang.restful.restfulwebservice.repository;
+package io.dowlath.rest.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import com.dowlath.rang.restful.restfulwebservice.model.Post;
-import com.dowlath.rang.restful.restfulwebservice.model.User;
+import io.dowlath.rest.model.Post;
 
 @Repository
 public interface PostRepository extends JpaRepository<Post,Integer>{
