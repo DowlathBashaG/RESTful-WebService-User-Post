@@ -1,4 +1,4 @@
-package com.dowlath.rang.restful.restfulwebservice.controller.helloworldbean;
+package io.dowlath.rest.controller.helloworldbean;
 
 public class HelloWorldBean {
     private String HelloWorldBean; 

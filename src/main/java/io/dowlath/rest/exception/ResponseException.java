@@ -1,4 +1,4 @@
-package com.dowlath.rang.restful.restfulwebservice.exception;
+package io.dowlath.rest.exception;
 
 import java.util.Date;
 

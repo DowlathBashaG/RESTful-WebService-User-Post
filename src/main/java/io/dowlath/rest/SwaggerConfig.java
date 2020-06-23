@@ -1,4 +1,4 @@
-package com.dowlath.rang.restful.restfulwebservice;
+package io.dowlath.rest;
 
 import java.util.Arrays;
 import java.util.HashSet;

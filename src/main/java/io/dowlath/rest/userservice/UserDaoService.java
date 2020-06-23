@@ -1,13 +1,12 @@
-package com.dowlath.rang.restful.restfulwebservice.userservice;
+package io.dowlath.rest.userservice;
 
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.Iterator;
 import java.util.List;
 
+import io.dowlath.rest.model.User;
 import org.springframework.stereotype.Component;
-
-import com.dowlath.rang.restful.restfulwebservice.model.User;
 
 @Component
 public class UserDaoService {
